@@ -43,3 +43,26 @@
 
         git branch -M main
         git push -u origin main
+
+
+1.create one folder like 'House price'
+2.creat a one file name 'setup.py'
+
+#setup file
+  requirements to setup for author details, and packages 
+
+## Common Commands to Use with setup.py
+
+Install the package (recommended if you're just setting it up):
+
+        python setup.py install
+
+
+Develop mode (editable install) – Good for ongoing development:
+
+        pip install -e .
+
+
+(or)
+
+        python setup.py develop
