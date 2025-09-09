@@ -66,3 +66,7 @@ Develop mode (editable install) – Good for ongoing development:
 (or)
 
         python setup.py develop
+
+New packages install in house_price
+Logger
+Exception handling
